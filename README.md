@@ -1,25 +1,31 @@
+# 🥤 Coca-Cola US Retail Dashboard
 
-🥤 Coca-Cola Sales Dashboard
-A clean and interactive Excel dashboard to visualize Coca-Cola’s retail performance across the U.S.
+A professional Excel dashboard to analyze Coca-Cola's sales performance across major American retailers. Built with clean visuals, interactive filters, and geo-mapping.
 
-🔹 Key Insights
-📍 Geo Map of unit sales by state
+---
 
-📊 Monthly trends and peak sales periods
+## 📸 Screenshot
 
-💰 Track Total Sales, Units Sold, Operating Cost, and Profit %
+![Dashboard Preview](./dashboard_photo.png)
 
-🔍 Quick filters by Retailer, Region, and Brand
 
-🚀 Built With
-Microsoft Excel
+---
 
-Pivot Tables & Slicers
+## 🔍 Key Features
 
-Dynamic Charts (Bar + Geo Map)
+- 📊 Total Sales, Units Sold, Operating Cost & Profit % at a glance  
+- 🗺️ U.S. map of unit sales by state  
+- 📅 Monthly sales trends  
+- 🔘 Filters by Retailer, Region, and Beverage Brand
 
-💡 Ideal For
-Retail teams, analysts, and business managers who want quick, visual insights from Excel.
+---
+
+## 🚀 Tools Used
+
+- Microsoft Excel  
+- Pivot Tables & Slicers  
+- Dynamic Bar and Geo Maps  
+- KPI Cards
 
 
 
